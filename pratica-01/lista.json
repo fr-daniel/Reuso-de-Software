@@ -1,0 +1,46 @@
+[
+	{
+		"firstName": "João",
+		"lastName": "Costa",
+		"age": 21,
+		"address": {
+			"houseNumber": 132,
+			"streetAddress": "Rua A",
+			"city": "Quixadá",
+			"state": "Ceará"
+		}
+	},
+	{
+		"firstName": "Maria",
+		"lastName": "Silva",
+		"age": 34,
+		"address": {
+			"houseNumber": 144,
+			"streetAddress": "Rua B",
+			"city": "São Paulo",
+			"state": "São Paulo"
+		}
+	},
+	{
+		"firstName": "José",
+		"lastName": "Lima",
+		"age": 22,
+		"address": {
+			"houseNumber": 45,
+			"streetAddress": "Rua C",
+			"city": "Fortaleza",
+			"state": "Ceará"
+		}
+	},
+	{
+		"firstName": "James",
+		"lastName": "Gosling",
+		"age": 63,
+		"address": {
+			"houseNumber": 123,
+			"streetAddress": "Rua D",
+			"city": "Estados Unidos",
+			"state": "Nova York"
+		}
+	}
+]
